@@ -2,11 +2,11 @@
 
 ### Before you get started, make sure you have the following prerequisites in place:
 
-####    Terraform installed.
-####    AWS IAM credentials configured.
-####    Git for cloning the repository. <br/>
+####   🟢Terraform installed.
+####   🟢AWS IAM credentials configured.
+####   🟢Git for cloning the repository. 
 
-# ☁️ WEB TIER ☁️
+# ☁️ Web Tier ☁️
 ### The Web Tier is the entry point for incoming user requests. It typically includes:
 
 ####   ⚫Load Balancer: Distributes traffic across multiple web servers.
