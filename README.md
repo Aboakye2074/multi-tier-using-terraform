@@ -1,4 +1,4 @@
-# Prerequisites 🚨
+# 🚨 Prerequisites 🚨
 
 ### Before you get started, make sure you have the following prerequisites in place:
 
